@@ -1,0 +1,101 @@
+[{
+    "_id": {
+      "$oid": "621394bf082368d4de32f990"
+    },
+    "nombre": "petanca",
+    "dia": ["lunes", "miércoles"],
+    "duración": "2 horas",
+    "hora_inicio": ["12:00", "16:00"],
+    "id_actividad": 1
+  },
+  {
+    "_id": {
+      "$oid": "621394bf082368d4de32f991"
+    },
+    "nombre": "gimnasia",
+    "dia": ["martes", "jueves", "sábado"],
+    "duración": "2 horas",
+    "hora_inicio": "10:00",
+    "id_actividad": 2
+  },
+  {
+    "_id": {
+      "$oid": "621394bf082368d4de32f993"
+    },
+    "nombre": "baile",
+    "dia": ["lunes", "miércoles", "viernes"],
+    "duración": "2 horas",
+    "hora_inicio": ["11:00", "17:00"],
+    "id_actividad": 3
+  },
+  {
+    "_id": {
+      "$oid": "621394bf082368d4de32f994"
+    },
+    "nombre": "cocina",
+    "dia": ["martes", "jueves", "domingo"],
+    "duración": "2 horas",
+    "hora_inicio": "12:00",
+    "id_actividad": 4
+  },
+  {
+    "_id": {
+      "$oid": "621394bf082368d4de32f995"
+    },
+    "nombre": "pilates",
+    "dia": ["lunes", "miércoles", "viernes"],
+    "duración": "2 horas",
+    "hora_inicio": "18:00",
+    "id_actividad": 5
+  },
+  {
+    "_id": {
+      "$oid": "621394bf082368d4de32f996"
+    },
+    "nombre": "juegos de mesa",
+    "dia": ["lunes", "martes", "miércoles"],
+    "duración": "2 horas",
+    "hora_inicio": "16:00",
+    "id_actividad": 6
+  },
+  {
+    "_id": {
+      "$oid": "621394bf082368d4de32f997"
+    },
+    "nombre": "excursion",
+    "dia": ["viernes", "sábado", "domingo"],
+    "duración": "5 horas",
+    "hora_inicio": "8:00",
+    "id_actividad": 7
+  },
+  {
+    "_id": {
+      "$oid": "621394bf082368d4de32f998"
+    },
+    "nombre": "natacion",
+    "dia": ["lunes", "miércoles", "viernes"],
+    "duración": "2 horas",
+    "hora_inicio": "10:00",
+    "id_actividad": 8
+  },
+  {
+    "_id": {
+      "$oid": "621394bf082368d4de32f999"
+    },
+    "nombre": "club de lectura",
+    "dia": ["jueves", "viernes", "sábado"],
+    "duración": "2 horas",
+    "hora_inicio": "16:00",
+    "id_actividad": 9
+  },
+  {
+    "_id": {
+      "$oid": "621394bf082368d4de32f000"
+    },
+    "nombre": "pickleball",
+    "dia": ["lunes", "miércoles", "viernes"],
+    "duración": "2 horas",
+    "hora_inicio": "10:00",
+    "id_actividad": 10
+  }
+]

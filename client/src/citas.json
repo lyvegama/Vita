@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6227a0677d8b8426cc808062"
+  },
+  "dia": "lunes",
+  "numero": "1",
+  "actividad": [
+    "petanca"
+  ],
+  "id_citas": "1"
+},{
+  "_id": {
+    "$oid": "6227a0677d8b8426cc808063"
+  },
+  "dia": "martes",
+  "numero": "2",
+  "actividad": [
+    "baile"
+  ],
+  "id_citas": "2"
+},{
+  "_id": {
+    "$oid": "6227a0677d8b8426cc808064"
+  },
+  "dia": "miercoles",
+  "numero": "3",
+  "actividad": [
+    "petanca"
+  ],
+  "id_citas": "3"
+},{
+  "_id": {
+    "$oid": "6227a0677d8b8426cc808065"
+  },
+  "dia": "jueves",
+  "numero": "4",
+  "actividad": [
+    "baile"
+  ],
+  "id_citas": "4"
+},{
+  "_id": {
+    "$oid": "6227a0677d8b8426cc808066"
+  },
+  "dia": "viernes",
+  "numero": "5",
+  "actividad": [
+    "excursion"
+  ],
+  "id_citas": "5"
+},{
+  "_id": {
+    "$oid": "6227a0677d8b8426cc808067"
+  },
+  "dia": "sábado",
+  "numero": "6",
+  "actividad": [
+    "excursion"
+  ],
+  "id_citas": "6"
+},{
+  "_id": {
+    "$oid": "6227a0677d8b8426cc808068"
+  },
+  "dia": "domingo",
+  "numero": "7",
+  "actividad": [
+    "excursion"
+  ],
+  "id_citas": "7"
+}]

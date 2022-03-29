@@ -1,0 +1,18 @@
+// para conectar la base de datos
+const mongoose = require("mongoose");
+
+
+
+// const url = "mongodb+srv://desafio2111:rl1234rl@cluster0.nk4q7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const url = "mongodb://localhost:27017/Desafio-2111";
+
+mongoose.connect(url, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+})
+    .then(() => {
+        console.log("Base de datos de Mongo conectada");
+    })
+    .catch((err) => {
+        console.error(err);
+    });
